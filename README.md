@@ -1,1 +1,1 @@
-This is that source code for the student of PDPU.
+This is a sample source code for the student of PDPU.
